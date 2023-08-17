@@ -1,0 +1,1 @@
+Install this package as FREEXL_DIR with ProjectTool
