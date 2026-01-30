@@ -15,3 +15,4 @@ vc143
 **/*.VC.db
 **/ipch*
 *.suo
+freexl.log
